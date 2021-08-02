@@ -1,4 +1,4 @@
-# Nexflix Clone
+# NeTflix Clone
 
 In this project I used react, sass and material-icon for layout training purposes.
 
